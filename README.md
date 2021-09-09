@@ -1,1 +1,1 @@
-# good_practice
+# Collection of python recipes
